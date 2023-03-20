@@ -50,7 +50,6 @@ int main()
   default:
     cout<<"invalid input";
     return 0;
-    break;
   }
   float convertedAmount = amount * exchangeRate;
 
